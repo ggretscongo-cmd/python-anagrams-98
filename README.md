@@ -1,2 +1,4 @@
-# python-anagrams-98
+# Python Anagrams 98
+
 Check if two strings are anagrams in Python.
+
